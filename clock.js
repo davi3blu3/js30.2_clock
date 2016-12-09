@@ -1,0 +1,1 @@
+console.log("From clock.js");
